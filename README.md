@@ -1,5 +1,5 @@
 # NotML  
-<img src="![ML](https://github.com/user-attachments/assets/f3ba664c-6147-4330-98b8-1e3886b57b58)" alt="Responsive Image" width="50%">
+<img src="https://github.com/user-attachments/assets/f3ba664c-6147-4330-98b8-1e3886b57b58" alt="ML" width="300">
 
 Welcome to **NotML**—a vibrant, open-source platform dedicated to showcasing cutting-edge Artificial Intelligence (AI) projects, tools, and tutorials. Powered by the passion and dedication of a single developer, NotML exemplifies how individual effort can create meaningful impact in the field of AI.  
 
