@@ -1,4 +1,4 @@
-# NotML  <img src="https://github.com/user-attachments/assets/f3ba664c-6147-4330-98b8-1e3886b57b58" alt="ML" width="50">
+# <img src="https://github.com/user-attachments/assets/f3ba664c-6147-4330-98b8-1e3886b57b58" alt="ML" width="40"> NotML 
 
 Welcome to **NotML**—a vibrant, open-source platform dedicated to showcasing cutting-edge Artificial Intelligence (AI) projects, tools, and tutorials. Powered by the passion and dedication of a single developer, NotML exemplifies how individual effort can create meaningful impact in the field of AI.  
 
@@ -28,7 +28,7 @@ Every project listed on **NotML** is accompanied by:
 - **Detailed Documentation**: Understand how each tool works with in-depth resources.  
 - **Regular Updates**: Stay at the forefront of AI innovation with frequently enhanced features and bug fixes.  
 
-![Project Examples](https://notml.in/)  
+![notmlsec1boximg1](https://github.com/user-attachments/assets/680d77a6-e67d-43fb-b174-06e2d4829239)
 
 ---
 
@@ -51,7 +51,7 @@ Follow us on:
 
 Bring your creativity, collaborate with others, and contribute to the future of AI.  
 
-### ![ML](https://github.com/user-attachments/assets/f3ba664c-6147-4330-98b8-1e3886b57b58)
+<img src="https://github.com/user-attachments/assets/f3ba664c-6147-4330-98b8-1e3886b57b58" alt="ML" width="40">
 **[Visit NotML Today!](https://notml.in)**  
 
 --- 
