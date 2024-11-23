@@ -49,9 +49,21 @@ Follow us on:
 
 ---
 
+The **NotML Marketplace** features a variety of AI, machine learning, and utility-based projects. Current offerings include:
+
+- **Not Pad**: An AI-enhanced notepad app.
+- **Dynamic Weather**: A weather app for daily use.
+- **ML Trainer**: A basic machine learning trainer with MNIST.
+- **Sorting System**: A Python-based dataset sorting tool.
+- **AccuCalc**: A Javascript-based conversion and calculation tool.
+- **Artifi.ai**: A developing AI project.
+
+New projects and updates are continuously added. You can check them out on the [NotML Marketplace](https://notml.in/marketplace).
+
 Bring your creativity, collaborate with others, and contribute to the future of AI.  
 
 <img src="https://github.com/user-attachments/assets/f3ba664c-6147-4330-98b8-1e3886b57b58" alt="ML" width="150">
+
 **[Visit NotML Today!](https://notml.in)**  
 
 --- 
