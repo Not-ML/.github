@@ -10,7 +10,6 @@ body:
       value: |
         Thank you for reporting mistakes and/or bugs 🐞 in Not-ML Docs 📑. We appreciate your contribution! 🙂
         
-        Before filing this `Docs Bug` report, please make sure to check if someone already filed this bug report in our [Dev Docs Board](https://github.com/orgs/asyncapi/projects/8).
   - type: textarea
     id: describe-bug
     attributes:
